@@ -2,7 +2,7 @@
   {
     "name": "Dell Bulk Warranty Lookup",
     "filename": "Dell_BulkWarrantyLookup.ps1",
-    "version": "2025.04.09.001",
+    "version": "2025.04.10.001",
     "description": "Run a bulk lookup for Dell warranties based on a list of service tags."
   },
   {
@@ -14,19 +14,19 @@
   {
     "name": "Excel File Merger",
     "filename": "ExcelFileMergerApp.py",
-    "version": "2025.04.03.01",
+    "version": "2025.04.10.01",
     "description": "Merge multiple Excel files into a single consolidated report."
   },
   {
     "name": "Automated Task Report Cleanup",
     "filename": "AutomatedTaskReportCleanup7.py",
-    "version": "2025.03.11.001",
+    "version": "2025.04.10.001",
     "description": "Removes stale scheduled task reports to free space and clean clutter."
   },
   {
     "name": "Fault History Formatter",
     "filename": "FaultHistoryFormatter21.py",
-    "version": "2025.03.12.001",
+    "version": "2025.04.10.001",
     "description": "Parse and format raw fault logs into a readable summary layout."
   },
   {
